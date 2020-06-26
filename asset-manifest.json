@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FreakySite/static/css/main.9b41885f.chunk.css",
+    "main.js": "/FreakySite/static/js/main.980db602.chunk.js",
+    "main.js.map": "/FreakySite/static/js/main.980db602.chunk.js.map",
+    "runtime-main.js": "/FreakySite/static/js/runtime-main.14b31d6c.js",
+    "runtime-main.js.map": "/FreakySite/static/js/runtime-main.14b31d6c.js.map",
+    "static/js/2.f0cc8c12.chunk.js": "/FreakySite/static/js/2.f0cc8c12.chunk.js",
+    "static/js/2.f0cc8c12.chunk.js.map": "/FreakySite/static/js/2.f0cc8c12.chunk.js.map",
+    "index.html": "/FreakySite/index.html",
+    "precache-manifest.5fc54a1139b53d6ae732525fc4e47747.js": "/FreakySite/precache-manifest.5fc54a1139b53d6ae732525fc4e47747.js",
+    "service-worker.js": "/FreakySite/service-worker.js",
+    "static/css/main.9b41885f.chunk.css.map": "/FreakySite/static/css/main.9b41885f.chunk.css.map",
+    "static/js/2.f0cc8c12.chunk.js.LICENSE.txt": "/FreakySite/static/js/2.f0cc8c12.chunk.js.LICENSE.txt",
+    "static/media/freakyos.png": "/FreakySite/static/media/freakyos.ea193914.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b31d6c.js",
+    "static/js/2.f0cc8c12.chunk.js",
+    "static/css/main.9b41885f.chunk.css",
+    "static/js/main.980db602.chunk.js"
+  ]
+}
