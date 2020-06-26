@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "549a1b83372f4d17977ccca2a8e774f3",
+    "revision": "99ecf26a95a8545f9ac4bc9b68d7985f",
     "url": "/FreakySite/index.html"
   },
   {
-    "revision": "00953cecaf4d37dae142",
+    "revision": "bc61c8c6362b9a2a502f",
     "url": "/FreakySite/static/css/main.9b41885f.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FreakySite/static/js/2.f0cc8c12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00953cecaf4d37dae142",
-    "url": "/FreakySite/static/js/main.9a2e898b.chunk.js"
+    "revision": "bc61c8c6362b9a2a502f",
+    "url": "/FreakySite/static/js/main.4f46bef7.chunk.js"
   },
   {
     "revision": "08dd87365eaf1bcfc421",
     "url": "/FreakySite/static/js/runtime-main.14b31d6c.js"
   },
   {
-    "revision": "2ff872298b644cdf25cb05cc0745ac8e",
-    "url": "/FreakySite/static/media/freakyos.2ff87229.png"
+    "revision": "e62ae12850764c99e7e3478972c108f4",
+    "url": "/FreakySite/static/media/freakyos.e62ae128.jpg"
   }
 ]);
